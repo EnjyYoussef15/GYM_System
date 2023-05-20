@@ -1,0 +1,30 @@
+D:\Corses\iTi\00. Project C#\GYM\GYM\bin\Debug\GYM.exe.config
+D:\Corses\iTi\00. Project C#\GYM\GYM\bin\Debug\GYM.exe
+D:\Corses\iTi\00. Project C#\GYM\GYM\bin\Debug\GYM.pdb
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.csproj.AssemblyReference.cache
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.csproj.SuggestedBindingRedirects.cache
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.cache
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.csproj.CoreCompileInputs.cache
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.exe
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.pdb
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.SearchTraineeForm.resources
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.LoginForm.resources
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.NewMemberForm.resources
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.MainForm.resources
+D:\Corses\iTi\00. Project C#\GYM\GYM\obj\Debug\GYM.EquipmentForm.resources
+D:\ITI-DotNet\Project C#\GYM\GYM\bin\Debug\GYM.exe.config
+D:\ITI-DotNet\Project C#\GYM\GYM\bin\Debug\GYM.exe
+D:\ITI-DotNet\Project C#\GYM\GYM\bin\Debug\GYM.pdb
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.csproj.AssemblyReference.cache
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.csproj.SuggestedBindingRedirects.cache
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.EquipmentForm.resources
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.MainForm.resources
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.LoginForm.resources
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.NewMemberForm.resources
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.SearchTraineeForm.resources
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.cache
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.csproj.CoreCompileInputs.cache
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.exe
+D:\ITI-DotNet\Project C#\GYM\GYM\obj\Debug\GYM.pdb

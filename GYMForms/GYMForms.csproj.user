@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CoachAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CoachForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CoachSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteAndUpdate_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Equipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="equipment_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="equipmen_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WelcomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkerAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkerSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

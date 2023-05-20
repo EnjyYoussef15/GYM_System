@@ -1,0 +1,26 @@
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\bin\Debug\Fitness.exe.config
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\bin\Debug\Fitness.exe
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\bin\Debug\Fitness.pdb
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\obj\Debug\Fitness.csproj.AssemblyReference.cache
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\obj\Debug\Fitness.csproj.SuggestedBindingRedirects.cache
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\obj\Debug\Fitness.Properties.Resources.resources
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\obj\Debug\Fitness.csproj.GenerateResource.cache
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\obj\Debug\Fitness.csproj.CoreCompileInputs.cache
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\obj\Debug\Fitness.exe
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\obj\Debug\Fitness.pdb
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\obj\Debug\Fitness.TraineeForm.resources
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\obj\Debug\Fitness.SearchForm.resources
+D:\Corses\iTi\00. Project C#\Fitness\Fitness\obj\Debug\Fitness.DeleteAndUpdate_Form.resources
+D:\ITI-DotNet\Project C#\Fitness\Fitness\bin\Debug\Fitness.exe.config
+D:\ITI-DotNet\Project C#\Fitness\Fitness\bin\Debug\Fitness.exe
+D:\ITI-DotNet\Project C#\Fitness\Fitness\bin\Debug\Fitness.pdb
+D:\ITI-DotNet\Project C#\Fitness\Fitness\obj\Debug\Fitness.csproj.AssemblyReference.cache
+D:\ITI-DotNet\Project C#\Fitness\Fitness\obj\Debug\Fitness.csproj.SuggestedBindingRedirects.cache
+D:\ITI-DotNet\Project C#\Fitness\Fitness\obj\Debug\Fitness.DeleteAndUpdate_Form.resources
+D:\ITI-DotNet\Project C#\Fitness\Fitness\obj\Debug\Fitness.TraineeForm.resources
+D:\ITI-DotNet\Project C#\Fitness\Fitness\obj\Debug\Fitness.Properties.Resources.resources
+D:\ITI-DotNet\Project C#\Fitness\Fitness\obj\Debug\Fitness.SearchForm.resources
+D:\ITI-DotNet\Project C#\Fitness\Fitness\obj\Debug\Fitness.csproj.GenerateResource.cache
+D:\ITI-DotNet\Project C#\Fitness\Fitness\obj\Debug\Fitness.csproj.CoreCompileInputs.cache
+D:\ITI-DotNet\Project C#\Fitness\Fitness\obj\Debug\Fitness.exe
+D:\ITI-DotNet\Project C#\Fitness\Fitness\obj\Debug\Fitness.pdb

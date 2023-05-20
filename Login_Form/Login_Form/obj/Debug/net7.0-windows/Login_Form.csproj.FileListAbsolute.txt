@@ -1,0 +1,36 @@
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\bin\Debug\net7.0-windows\Login_Form.exe
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\bin\Debug\net7.0-windows\Login_Form.deps.json
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\bin\Debug\net7.0-windows\Login_Form.runtimeconfig.json
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\bin\Debug\net7.0-windows\Login_Form.dll
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\bin\Debug\net7.0-windows\Login_Form.pdb
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.csproj.AssemblyReference.cache
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.Login_Form.resources
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.csproj.GenerateResource.cache
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.AssemblyInfoInputs.cache
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.AssemblyInfo.cs
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.csproj.CoreCompileInputs.cache
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.dll
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\refint\Login_Form.dll
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.pdb
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.genruntimeconfig.cache
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\ref\Login_Form.dll
+C:\Users\ELDIWINY\source\repos\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.Properties.Resources.resources
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\bin\Debug\net7.0-windows\Login_Form.exe
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\bin\Debug\net7.0-windows\Login_Form.deps.json
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\bin\Debug\net7.0-windows\Login_Form.runtimeconfig.json
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\bin\Debug\net7.0-windows\Login_Form.dll
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\bin\Debug\net7.0-windows\Login_Form.pdb
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.csproj.AssemblyReference.cache
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.Login_Form.resources
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.Properties.Resources.resources
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.csproj.GenerateResource.cache
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.AssemblyInfoInputs.cache
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.AssemblyInfo.cs
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.csproj.CoreCompileInputs.cache
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.dll
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\refint\Login_Form.dll
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.pdb
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\Login_Form.genruntimeconfig.cache
+D:\ITI-DotNet\Project C#\Login_Form\Login_Form\obj\Debug\net7.0-windows\ref\Login_Form.dll
